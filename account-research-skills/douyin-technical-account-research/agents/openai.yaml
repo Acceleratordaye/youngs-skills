@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音技术账号深度调查助手"
+  short_description: "扫描、深挖并评估抖音技术账号的教程、评论与产品可信度"
+  default_prompt: "使用 $douyin-technical-account-research 调查当前内置浏览器中打开的抖音技术账号，并输出证据分层的研究报告。"
